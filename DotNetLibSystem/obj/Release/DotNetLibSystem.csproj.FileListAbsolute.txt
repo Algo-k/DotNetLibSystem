@@ -1,0 +1,5 @@
+D:\Work\Source\System\DotNetLibSystem\bin\Release\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\bin\Release\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\obj\Release\DotNetLibSystem.csproj.CoreCompileInputs.cache
+D:\Work\Source\System\DotNetLibSystem\obj\Release\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\obj\Release\DotNetLibSystem.pdb

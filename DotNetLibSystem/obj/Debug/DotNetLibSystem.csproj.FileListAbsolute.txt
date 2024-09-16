@@ -1,0 +1,11 @@
+D:\Work\Source\System\DotNetLibSystem\bin\Debug\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\bin\Debug\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\obj\Debug\DotNetLibSystem.csproj.CoreCompileInputs.cache
+D:\Work\Source\System\DotNetLibSystem\obj\Debug\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\obj\Debug\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\obj\Debug\DotNetLibSystem.csproj.AssemblyReference.cache
+D:\Work\Github\DNLS\DNLS\DotNetLibSystem\bin\Debug\DotNetLibSystem.dll
+D:\Work\Github\DNLS\DNLS\DotNetLibSystem\bin\Debug\DotNetLibSystem.pdb
+D:\Work\Github\DNLS\DNLS\DotNetLibSystem\obj\Debug\DotNetLibSystem.csproj.CoreCompileInputs.cache
+D:\Work\Github\DNLS\DNLS\DotNetLibSystem\obj\Debug\DotNetLibSystem.dll
+D:\Work\Github\DNLS\DNLS\DotNetLibSystem\obj\Debug\DotNetLibSystem.pdb

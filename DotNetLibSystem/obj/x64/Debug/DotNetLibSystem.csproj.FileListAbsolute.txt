@@ -1,0 +1,10 @@
+D:\Work\Source\System\DotNetLibSystem\bin\x64\Debug\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\bin\x64\Debug\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\bin\x64\Debug\WpfLibSystem3.dll
+D:\Work\Source\System\DotNetLibSystem\bin\x64\Debug\WpfLibSystem3.pdb
+D:\Work\Source\Assistant\Program\bin\x64\Debug\DotNetLibSystem.dll
+D:\Work\Source\Assistant\Program\bin\x64\Debug\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\obj\x64\Debug\DotNetLibSystem.csproj.CoreCompileInputs.cache
+D:\Work\Source\System\DotNetLibSystem\obj\x64\Debug\DotNetLibSystem.dll
+D:\Work\Source\System\DotNetLibSystem\obj\x64\Debug\DotNetLibSystem.pdb
+D:\Work\Source\System\DotNetLibSystem\obj\x64\Debug\DotNetLibSystem.csproj.AssemblyReference.cache
